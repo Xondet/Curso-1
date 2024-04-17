@@ -16,3 +16,4 @@ class Curso:
         suma+=self.__notas[indice]
         indice+=1
     return suma/indice
+    .
